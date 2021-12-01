@@ -4,6 +4,8 @@ Dieses Repository enthält interaktive [*Jupyter Notebooks*](https://jupyter-not
 
 Drücken Sie den "Launch Binder"-Button, um die Online-Umgebung für die interaktiven Notebooks in Ihrem Browser zu starten (**Hinweis**: Dies kann eine Weile dauern).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/data-literacy-seminar-21-22/main?urlpath=lab)
+
 Wenn sie den "Launch Binder"-Button drücken, öffnet sich eine [Jupyter-Lab-Umgebung](https://jupyterlab.readthedocs.io/en/stable/). Die interaktiven *Jupyter Notebooks* sind die `.ipynb`-Dateien, die Sie links im File-Explorer-Menü im *Jupyter Lab* sehen werden. Diese können Sie durch einen Doppelklick auf den Dateinamen öffnen.
 
 
