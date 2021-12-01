@@ -4,5 +4,6 @@ install.packages(c("tidyverse",
                    "scales",
                    "tidytext",
                    "wordcloud",
-                   "cld3"
+                   "cld3",
+                   "zoo"
                    ))
