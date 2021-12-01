@@ -1,15 +1,8 @@
-install.packages(c("readr",
-                   "tidyr",
-                   "magrittr",
-                   "dplyr",
-                   "ggplot2",
+install.packages(c("tidyverse",
                    "jsonlite",
                    "lubridate",
-                   "zoo",
                    "scales",
-                   "stringr",
                    "tidytext",
                    "wordcloud",
-                   "cld3",
-                   "purrr"
+                   "cld3"
                    ))

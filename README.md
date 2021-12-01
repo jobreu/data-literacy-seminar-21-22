@@ -7,6 +7,8 @@ Drücken Sie den "Launch Binder"-Button, um die Online-Umgebung für die interak
 Wenn sie den "Launch Binder"-Button drücken, öffnet sich eine [Jupyter-Lab-Umgebung](https://jupyterlab.readthedocs.io/en/stable/). Die interaktiven *Jupyter Notebooks* sind die `.ipynb`-Dateien, die Sie links im File-Explorer-Menü im *Jupyter Lab* sehen werden. Diese können Sie durch einen Doppelklick auf den Dateinamen öffnen.
 
 
+![](https://github.com/jobreu/data-literacy-seminar-21-22/blob/main/jupyterlab_screenshot.png)
+
 **Wichtige Hinweise** zur Nutzung der Notebooks über den obigen Link: 
 Über das Interface, welches sich durch einen Klick auf den "Launch Binder"-Button öffnet, können Sie Sie die Notebooks bzw. den darin enthaltenen Code (und Text) bearbeiten und ausführen (und auch neue Notebooks erstellen) ohne lokal etwas auf Ihrem Rechner zu installieren. Möglich ist dies durch den Service [*Binder*](https://mybinder.org/).
 Alle Änderungen, die Sie in den Notebooks vornehmen, sind nicht persistent (d.h. sie gelten nur für die aktuelle Nutzungssession). Wenn Sie die geänderten Notebooks weiterverwenden möchten, können Sie diese herunterladen und lokal speichern (wie dies geht, wird im Notebook `jupyter_intro.ipynb` erklärt).
